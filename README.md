@@ -45,6 +45,7 @@ git init
 也可以指定資料夾
 
 ```cmd
+cd <directory>
 git init <directory>
 ```
 
